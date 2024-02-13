@@ -1,0 +1,17 @@
+.header{
+    display: inline-flex;
+    margin: 0;
+    padding: 20px;
+    align-items: center;
+}
+
+.header-img {
+    border-radius: 50%;
+    height: 70px;
+    width: auto;
+}   
+
+.header-text {
+    font-size: 40px;
+    font-weight: 800;
+}
